@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ea88ead3-0908-4ae7-9d9a-82d4f293942f": {
+      "ProjectGuid": "ea88ead3-0908-4ae7-9d9a-82d4f293942f",
+      "DisplayName": "DataTypeBool",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

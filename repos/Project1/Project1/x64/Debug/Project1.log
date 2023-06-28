@@ -1,0 +1,5 @@
+﻿  소스1.cpp
+C:\Users\pc\source\repos\Project1\Project1\소스1.cpp(4,10): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\pc\source\repos\Project1\Project1\소스1.cpp(4,6): error C2371: 'std::cout': 재정의. 기본 형식이 다릅니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\iostream(40): message : 'std::cout' 선언을 참조하십시오.
+C:\Users\pc\source\repos\Project1\Project1\소스1.cpp(4,12): error C2059: 구문 오류: '<<'

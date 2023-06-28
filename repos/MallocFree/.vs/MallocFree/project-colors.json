@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5413dce9-3ddb-45e1-8836-949fdbbb9ede": {
+      "ProjectGuid": "5413dce9-3ddb-45e1-8836-949fdbbb9ede",
+      "DisplayName": "MallocFree",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
